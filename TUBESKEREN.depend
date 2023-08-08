@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1673067607 source:c:\users\msi katana\documents\codeblock\tubeskeren\main.cpp
+	"TUBESKEREN.h"
+	"CHILD.h"
+
+1673065860 c:\users\msi katana\documents\codeblock\tubeskeren\tubeskeren.h
+	<iostream>
+	"CHILD.h"
+
+1672853905 source:c:\users\msi katana\documents\codeblock\tubeskeren\tubeskeren.cpp
+	"TUBESKEREN.h"
+	"CHILD.h"
+
+1673065134 source:c:\users\msi katana\documents\codeblock\tubeskeren\child.cpp
+	"CHILD.h"
+	"TUBESKEREN.h"
+
+1673066094 c:\users\msi katana\documents\codeblock\tubeskeren\child.h
+	<iostream>
+
